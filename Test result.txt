@@ -1,0 +1,8 @@
+	DESKTOP-UVS73H4
+	13th Gen Intel(R) Core(TM) i5-13600K   3.50 GHz
+	64.0 GB (63.7 GB 可用)
+	64 位元作業系統，x64 型處理器
+	RTX3060
+temp	65
+execution_time: 259.45302271842957(sec)
+avg_execution_time: 0.025945302271842958(sec)
