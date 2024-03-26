@@ -1,0 +1,19 @@
+docker run --rm -it -v /mnt/e/kneron/docker:/data1 kneron/toolchain:latest
+
+Connect/UPdate to flash：
+DFUT.exe  (update)
+upgrade @ C:\Users\user\Desktop\kneron_plus\res\firmware\KL720
+
+Transfer onnx model：
+//OPEN WEBGUI DOCKER FIRST
+docker start toolchain_webgui
+http://127.0.0.1:8180/#toolchain_webgui_all_in_one
+
+Model file(onnx only)
+Quantization Folder(Training image,more than 100pics)
+
+Run Model on Dongle：
+image data　＠ C:\Users\user\Desktop\kneron_plus\res\images
+.nef model @ C:\Users\user\Desktop\kneron_plus\res\models\KL720
+Kneron_run.py @ C:\Users\user\Desktop\kneron_plus\python\example\KL720DemoGenericImageInferencePostYolo.py
+detected data @ C:\Users\user\Desktop\kneron_plus\python\example
