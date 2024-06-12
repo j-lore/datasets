@@ -13,3 +13,6 @@ https://www.bing.com/search?q=Determinant+of+Hessian+%28DoH%29&qs=n&form=QBRE&sp
 
 
 https://drive.google.com/file/d/1MRL8NmuIBrGYFoIQcPl4Nhw4SjeMKiw9/view?usp=drive_link
+
+
+https://drive.google.com/file/d/1a1cRtdvOHx1lQMD3FU26XrhN-1ZKrD5p/view?usp=drive_link
